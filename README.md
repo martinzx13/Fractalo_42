@@ -1,5 +1,5 @@
 
-### # Fract'ol - A Fractal Exploration Project
+### Fract'ol - A Fractal Exploration Project
 
 2. Navigate to the project directory and compile the program using the provided `Makefile`:
    ```bash
